@@ -1,4 +1,3 @@
 # repo1
-test push
-test 2
-test pull
+Mon premier repo gitHub.
+contient un dossier projectC qui est mon premier projet C++
